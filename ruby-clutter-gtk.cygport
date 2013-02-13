@@ -1,0 +1,11 @@
+inherit rubygem
+
+NAME="ruby-clutter-gtk"
+VERSION=1.2.1
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby Clutter-GTK bindings"
+DESCRIPTION="Ruby/ClutterGTK is a Ruby binding of Clutter-GTK."
+HOMEPAGE="http://ruby-gnome2.sourceforge.jp/"
+
+REQUIRES="girepository-GtkClutter1.0"
