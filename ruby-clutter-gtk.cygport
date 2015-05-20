@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-clutter-gtk"
-VERSION=2.2.0
+VERSION=2.2.5
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby Clutter-GTK bindings"
